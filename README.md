@@ -28,7 +28,6 @@ This repository includes:
    ```sh
    cd your-repo-name
 
-   
 4. Run the Scripts:
    Follow the instructions in the scripts/ directory for running the analysis scripts.
 
