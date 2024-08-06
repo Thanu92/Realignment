@@ -25,7 +25,6 @@ This repository includes:
    git clone https://github.com/yourusername/your-repo-name.git
 
 2.  Navigate to the Directory:
-   ```sh
    cd your-repo-name
 
 3.  Run the Scripts:
