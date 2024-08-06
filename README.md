@@ -36,7 +36,7 @@ Follow the instructions in the scripts/ directory for running the analysis scrip
 Check the data/ and trees/ directories for processed datasets and phylogenetic tree files.
 
 License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
+This repository is licensed under the MIT License. See the LICENSE.txt () file for more details.
 
 Acknowledgements
 Thank you to the contributors and the university of Guelph that made this research possible.
