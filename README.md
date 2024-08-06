@@ -25,7 +25,9 @@ This repository includes:
    git clone https://github.com/yourusername/your-repo-name.git
 
 2.  Navigate to the Directory:
+   ```sh
    cd your-repo-name
+
    
 4. Run the Scripts:
    Follow the instructions in the scripts/ directory for running the analysis scripts.
@@ -37,8 +39,8 @@ License
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
 Acknowledgements
-Thank you to the contributors and organizations that made this research possible.
+Thank you to the contributors and the university of Guelph that made this research possible.
 
 Contact
-For any questions or comments, please contact your-email@example.com.
+For any questions or comments, please contact thanuja@uoguelph.ca.
 Feel free to adjust the paths and any other details as needed!
