@@ -22,10 +22,10 @@ This repository includes:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Thanu92/Realignmen.git
 
 2.  Navigate to the Directory:
-   cd your-repo-name
+   cd Realignmen
 
 3.  Run the Scripts:
 
@@ -36,7 +36,7 @@ Follow the instructions in the scripts/ directory for running the analysis scrip
 Check the data/ and trees/ directories for processed datasets and phylogenetic tree files.
 
 License
-This repository is licensed under the MIT License. See the LICENSE.txt () file for more details.
+This repository is licensed under the MIT License. See the LICENSE.txt (https://github.com/Thanu92/Realignment/blob/main/LICENSE.txt) file for more details.
 
 Acknowledgements
 Thank you to the contributors and the university of Guelph that made this research possible.
