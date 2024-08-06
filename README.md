@@ -28,11 +28,13 @@ This repository includes:
    ```sh
    cd your-repo-name
 
-4. Run the Scripts:
-   Follow the instructions in the scripts/ directory for running the analysis scripts.
+3.  Run the Scripts:
 
-5. Explore the Data:
-   Check the data/ and trees/ directories for processed datasets and phylogenetic tree files.
+Follow the instructions in the scripts/ directory for running the analysis scripts.
+
+4.  Explore the Data:
+
+Check the data/ and trees/ directories for processed datasets and phylogenetic tree files.
 
 License
 This repository is licensed under the MIT License. See the LICENSE file for more details.
